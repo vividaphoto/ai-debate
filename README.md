@@ -208,6 +208,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **AGE RESTRICTION**: This tool is intended for users 18 years or older
 - **EXPERIMENTAL SOFTWARE**: This is an experimental tool for educational and research purposes only
 - **JURISDICTION**: This software is subject to Italian and EU law
+- **NO SUPPORT**: No technical support, maintenance, updates, or assistance is provided
+- **NO REFUNDS**: No refunds for any API costs incurred
+- **SECURITY RISKS**: Users assume all risks related to API key exposure or misuse
+- **MODIFICATIONS**: Any modifications to the code are at user's own risk
+- **THIRD-PARTY DEPENDENCIES**: No liability for issues caused by third-party services or libraries
+- **NO SLA**: No service level agreement or uptime guarantee
+- **INDEMNIFICATION**: Users agree to indemnify and hold harmless the author from any claims arising from use of this software
+- **ENTIRE AGREEMENT**: This disclaimer constitutes the entire agreement between users and the author
 
 ## Created by a Visual Artist
 
