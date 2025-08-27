@@ -186,6 +186,29 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UI inspired by modern AI interfaces
 - Community feedback from [HackerNews](https://news.ycombinator.com) and Reddit
 
+## Legal Disclaimers & Important Notice
+
+**PLEASE READ CAREFULLY BEFORE USING THIS SOFTWARE**
+
+- **NO WARRANTY**: This software is provided "AS IS" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement
+- **NO LIABILITY**: In no event shall the author (Vivida Photo PC) be liable for any claim, damages, or other liability arising from the use of this software
+- **API COSTS**: Users are solely responsible for all API usage costs incurred with OpenAI and Anthropic
+- **COMPLIANCE**: Users must comply with OpenAI and Anthropic Terms of Service
+- **TRADEMARKS**: ChatGPT® is a registered trademark of OpenAI. Claude® is a registered trademark of Anthropic. All other trademarks are property of their respective owners
+- **NOT AFFILIATED**: This project is not affiliated with, endorsed by, or sponsored by OpenAI or Anthropic
+- **USE AT YOUR OWN RISK**: The author assumes no responsibility for:
+  - Incorrect, misleading, or harmful AI responses
+  - API key security breaches or unauthorized usage
+  - Service interruptions or downtime
+  - Financial losses from API usage
+  - Violations of third-party terms of service
+  - Any direct, indirect, incidental, or consequential damages
+- **NOT PROFESSIONAL ADVICE**: Output from this tool should not be considered professional, legal, medical, financial, or expert advice of any kind
+- **DATA PRIVACY**: The author does not collect, store, or have access to user data, conversations, or API keys
+- **AGE RESTRICTION**: This tool is intended for users 18 years or older
+- **EXPERIMENTAL SOFTWARE**: This is an experimental tool for educational and research purposes only
+- **JURISDICTION**: This software is subject to Italian and EU law
+
 ## Created by a Visual Artist
 
 This tool was created by Vivida Photo PC, an Italian photographer specializing in:

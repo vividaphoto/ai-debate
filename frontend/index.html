@@ -120,6 +120,22 @@ let aborted=false;
 $("stopBtn").addEventListener("click", ()=>{ aborted=true; log("Interrotto dall'utente"); });
 
 $("startBtn").addEventListener("click", async ()=>{
+// Disclaimer al primo utilizzo
+  if (!localStorage.getItem('disclaimer-accepted')) {
+    const message = `IMPORTANT LEGAL NOTICE:\n\n` +
+      `This tool uses your API keys and will incur costs.\n` +
+      `You are solely responsible for all API charges.\n` +
+      `The software is provided AS-IS without any warranty.\n` +
+      `Not affiliated with OpenAI or Anthropic.\n\n` +
+      `By continuing, you accept all risks and responsibilities.\n\n` +
+      `Do you accept these terms?`;
+    
+    if (!confirm(message)) {
+      log("Terms not accepted. Cannot proceed.");
+      return;
+    }
+    localStorage.setItem('disclaimer-accepted', 'true');
+  }
   aborted=false;
   const WORKER_BASE = $("workerBase").value.trim();
   const A_MODEL = $("openaiModel").value.trim() || "gpt-4o";
